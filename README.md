@@ -32,13 +32,13 @@ I enjoy tackling challenging projects, from developing sophisticated **memory sc
 
 ### 📈 My GitHub Activity
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden-10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aiden-10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aiden-10&theme=dark)](https://git.io/streak-stats)
 
 ---
 
 ### 🌐 Let's Connect!
 
-<p align="center">
+<p>
   <a href="mailto:aiden.slabiak@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
