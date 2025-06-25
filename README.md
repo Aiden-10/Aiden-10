@@ -1,16 +1,63 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNsaT4eJg1rW/giphy.gif" width="100px" alt="Hacker typing animation" />
+</p>
 
+# Hi, I'm Aiden Slabiak! 👋
 
-### 🛠️ My Tech Stack
+### 💻 Computer Science Student & Aspiring Low-Level Engineer
 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge)
-![Assembly](https://img.shields.io/badge/-Assembly-663399?logo=assemblyscript&logoColor=white&style=for-the-badge)
-![Windows API](https://img.shields.io/badge/-Windows%20API-0078D4?logo=windows&logoColor=white&style=for-the-badge)
-![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-FF7F50?logo=ghidra&logoColor=white&style=for-the-badge)
+I thrive on exploring the depths of computing, building and learning low-level software, and delving into the intricacies of reverse engineering. My passion lies in areas most developers shy away from.
 
-### 🔥 My GitHub Stats
+---
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
+As a Computer Science student at **The University of Alabama**, I'm deeply interested in:
+- 🛠️ **Low-level Systems Programming:** Crafting efficient and powerful software close to the hardware.
+- 🔬 **Reverse Engineering:** Unpacking the mysteries of existing binaries and systems.
+- ⚡ **Embedded Systems:** Bridging the gap between software and the physical world.
+
+I enjoy tackling challenging projects, from developing sophisticated **memory scanners** and **UEFI/driver interfaces** to implementing **voice-controlled automation using kernel-level components**. My goal is to build robust tools that push the boundaries of system interaction.
+
+---
+
+### 🛠️ My Current Toolkit
+
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)](https://isocpp.org/)
+[![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge)](https://www.lua.org/)
+[![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-663399?logo=assemblyscript&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/X86_assembly_language)
+[![Windows API](https://img.shields.io/badge/-Windows%20API-0078D4?logo=windows&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/en-us/windows/win32/api/)
+[![Ghidra](https://img.shields.io/badge/-Ghidra-FF7F50?logo=ghidra&logoColor=white&style=for-the-badge)](https://ghidra-sre.org/)
+[![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-000000?logo=ida-pro&logoColor=white&style=for-the-badge)](https://hex-rays.com/ida-pro/)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
+[![Kernel Development](https://img.shields.io/badge/-Kernel%20Dev-4CAF50?logo=linux&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/Linux_kernel)
+
+---
+
+### 📈 My GitHub Activity
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aiden-10&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden-10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aiden-10&theme=dark)](https://git.io/streak-stats)
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/aidenslabiak-your-id" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-5F256B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
+  </p>
+
+---
+
+### Visitor Count
+
+![Profile views](https://komarev.com/ghpvc/?username=Aiden-10&label=Profile%20views&color=0e75b6&style=flat)
