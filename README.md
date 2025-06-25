@@ -32,7 +32,7 @@ I enjoy tackling challenging projects, from developing sophisticated **memory sc
 
 ### 📈 My GitHub Activity
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden-10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aiden-10&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aiden-10)](https://git.io/streak-stats)
 
 ---
 
