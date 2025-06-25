@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNsaT4eJg1rW/giphy.gif" width="100px" alt="Hacker typing animation" />
-</p>
-
 # Hi, I'm Aiden Slabiak! 👋
 
-### 💻 Computer Science Student & Aspiring Low-Level Engineer
+### 💻 Computer Science Student at University of Alabama
 
 I thrive on exploring the depths of computing, building and learning low-level software, and delving into the intricacies of reverse engineering. My passion lies in areas most developers shy away from.
 
@@ -35,8 +31,6 @@ I enjoy tackling challenging projects, from developing sophisticated **memory sc
 ---
 
 ### 📈 My GitHub Activity
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aiden-10&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden-10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aiden-10&theme=dark)](https://git.io/streak-stats)
 
@@ -45,13 +39,13 @@ I enjoy tackling challenging projects, from developing sophisticated **memory sc
 ### 🌐 Let's Connect!
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:aiden.slabiak@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/aidenslabiak-your-id" target="_blank">
+  <a href="https://linkedin.com/in/aiden-slabiak-115831296" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://aidenslabiak.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-5F256B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
   </p>
