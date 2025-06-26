@@ -1,4 +1,4 @@
-# Hi, I'm Aiden Slabiak! 👋
+# Hi, I'm Aiden! 👋
 
 ### 💻 Computer Science Student at University of Alabama
 
