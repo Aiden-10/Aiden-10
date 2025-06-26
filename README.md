@@ -2,7 +2,7 @@
 
 ### 💻 Computer Science Student at University of Alabama
 
-I thrive on exploring the depths of computing, building and learning low-level software, and delving into the intricacies of reverse engineering. My passion lies in areas most developers shy away from.
+I thrive on exploring the depths of computing, building and learning low-level software, and  reverse engineering. My passion lies in areas most developers shy away from.
 
 ---
 
