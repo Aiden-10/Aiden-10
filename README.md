@@ -2,21 +2,6 @@
 
 ### 💻 Computer Science Student at University of Alabama
 
-I thrive on exploring the depths of computing, building and learning low-level software, and  reverse engineering. My passion lies in areas most developers shy away from.
-
----
-
-### About Me
-
-As a Computer Science student at **The University of Alabama**, I'm deeply interested in:
-- 🛠️ **Low-level Systems Programming:** Crafting efficient and powerful software close to the hardware.
-- 🔬 **Reverse Engineering:** Unpacking the mysteries of existing binaries and systems.
-- ⚡ **Embedded Systems:** Bridging the gap between software and the physical world.
-
-I enjoy tackling challenging projects, from developing sophisticated **memory scanners** and **UEFI/driver interfaces** to implementing **voice-controlled automation using kernel-level components**. My goal is to build robust tools that push the boundaries of system interaction.
-
----
-
 ### 🛠️ My Current Toolkit
 
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)](https://isocpp.org/)
