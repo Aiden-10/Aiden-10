@@ -1,5 +1,5 @@
 ### Hi, I'm Aiden! 👋
-### 💻 Computer Science Student at University of Alabama
+### Computer Science Student at University of Alabama
 ---
 ### 🛠️ My Current Toolkit
 
