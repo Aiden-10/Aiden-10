@@ -1,4 +1,4 @@
-### Hi, I'm Aiden! 👋
+### Hi, I'm Aiden a
 ### Computer Science Student at University of Alabama
 ---
 ### 🛠️ My Current Toolkit
