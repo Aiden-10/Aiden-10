@@ -1,7 +1,7 @@
 # Hi, I'm Aiden! 👋
-
+---
 ### 💻 Computer Science Student at University of Alabama
-
+---
 ### 🛠️ My Current Toolkit
 
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)](https://isocpp.org/)
